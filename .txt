@@ -1,0 +1,192 @@
+{
+                id : 8,
+                Category : "Headphone",
+                title:"Earphones",
+                images : "images/a1.png",
+                rating : (
+                    <>
+                    <i class="fa-solid fa-star"></i>
+                    <i class="fa-solid fa-star"></i>
+                    <i class="fa-solid fa-star"></i>
+                    <i class="fa-solid fa-star"></i>
+                    <i class="fa-solid fa-star"></i>
+                    </>) ,
+                price : 550
+                
+            },
+            {
+                id : 9,
+                Category : "Cooling Fan",
+                title:"Air-Conditioner",
+                images : "images/ac1.png",
+                rating : (
+                    <>
+                    <i class="fa-solid fa-star"></i>
+                    <i class="fa-solid fa-star"></i>
+                    <i class="fa-solid fa-star"></i>
+                    <i class="fa-solid fa-star"></i>
+                    <i class="fa-solid fa-star"></i>
+                    </>) ,
+                price : 5550
+                
+            },
+            {
+                id : 10,
+                Category : "Headphone",
+                title:"Headphone",
+                images : "images/c2.png",
+                rating : (
+                    <>
+                    <i class="fa-solid fa-star"></i>
+                    <i class="fa-solid fa-star"></i>
+                    <i class="fa-solid fa-star"></i>
+                    <i class="fa-solid fa-star"></i>
+                    <i class="fa-solid fa-star"></i>
+                    </>) ,
+                price : 750
+                
+            },
+            {
+                id : 11,
+                Category : "Laptop",
+                title:"I-Pad Laptop",
+                images : "images/c1.png",
+                rating : (
+                    <>
+                    <i class="fa-solid fa-star"></i>
+                    <i class="fa-solid fa-star"></i>
+                    <i class="fa-solid fa-star"></i>
+                    <i class="fa-solid fa-star"></i>
+                    <i class="fa-solid fa-star"></i>
+                    </>) ,
+                price : 22050
+                
+            },
+            {
+                id : 12,
+                Category : "Camera",
+                title:"Dsl-camera",
+                images : "images/dslr camera.png",
+                rating : (
+                    <>
+                    <i class="fa-solid fa-star"></i>
+                    <i class="fa-solid fa-star"></i>
+                    <i class="fa-solid fa-star"></i>
+                    <i class="fa-solid fa-star"></i>
+                    <i class="fa-solid fa-star"></i>
+                    </>) ,
+                price : 100250
+                
+            },
+            {
+                id : 13,
+                Category : "Headphone",
+                title:"Headphone",
+                images : "images/h1.png",
+                rating : (
+                    <>
+                    <i class="fa-solid fa-star"></i>
+                    <i class="fa-solid fa-star"></i>
+                    <i class="fa-solid fa-star"></i>
+                    <i class="fa-solid fa-star"></i>
+                    <i class="fa-solid fa-star"></i>
+                    </>) ,
+                price : 1250
+                
+            },
+            {
+                id : 14,
+                Category : "Laptop",
+                title:"Laptop",
+                images : "images/p6.png",
+                rating : (
+                    <>
+                    <i class="fa-solid fa-star"></i>
+                    <i class="fa-solid fa-star"></i>
+                    <i class="fa-solid fa-star"></i>
+                    <i class="fa-solid fa-star"></i>
+                    <i class="fa-solid fa-star"></i>
+                    </>) ,
+                price : 40250
+                
+            },
+            {
+                id : 15,
+                Category : "CPU",
+                title:"Gaming CPU",
+                images : "images/pr7.png",
+                rating : (
+                    <>
+                    <i class="fa-solid fa-star"></i>
+                    <i class="fa-solid fa-star"></i>
+                    <i class="fa-solid fa-star"></i>
+                    <i class="fa-solid fa-star"></i>
+                    <i class="fa-solid fa-star"></i>
+                    </>) ,
+                price : 6650
+                
+            },
+            {
+                id : 16,
+                Category : "Cooling fan",
+                title:"Cooling Fan",
+                images : "images/pr5.png",
+                rating : (
+                    <>
+                    <i class="fa-solid fa-star"></i>
+                    <i class="fa-solid fa-star"></i>
+                    <i class="fa-solid fa-star"></i>
+                    <i class="fa-solid fa-star"></i>
+                    <i class="fa-solid fa-star"></i>
+                    </>) ,
+                price : 2250
+                
+            },
+            {
+                id : 17,
+                Category : "Monitor",
+                title:"Sony LED",
+                images : "images/pr8.png",
+                rating : (
+                    <>
+                    <i class="fa-solid fa-star"></i>
+                    <i class="fa-solid fa-star"></i>
+                    <i class="fa-solid fa-star"></i>
+                    <i class="fa-solid fa-star"></i>
+                    <i class="fa-solid fa-star"></i>
+                    </>) ,
+                price : 17250
+                
+            },
+            {
+                id : 18,
+                Category : "Washing machine",
+                title:"Washing machine",
+                images : "images/pr1.png",
+                rating : (
+                    <>
+                    <i class="fa-solid fa-star"></i>
+                    <i class="fa-solid fa-star"></i>
+                    <i class="fa-solid fa-star"></i>
+                    <i class="fa-solid fa-star"></i>
+                    <i class="fa-solid fa-star"></i>
+                    </>) ,
+                price : 18250
+                
+            },
+            {
+                id : 19,
+                Category : "Watch",
+                title:"Smart Watch",
+                images : "images/pr9.png",
+                rating : (
+                    <>
+                    <i class="fa-solid fa-star"></i>
+                    <i class="fa-solid fa-star"></i>
+                    <i class="fa-solid fa-star"></i>
+                    <i class="fa-solid fa-star"></i>
+                    <i class="fa-solid fa-star"></i>
+                    </>) ,
+                price : 1250
+                
+            },
